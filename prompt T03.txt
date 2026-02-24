@@ -1,0 +1,2 @@
+Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del.
+bantu saya menyelesaikan kasus ini dalam bahasa c, program nya untuk menambah data pelanggan serta berikan input dan output yang jelas
